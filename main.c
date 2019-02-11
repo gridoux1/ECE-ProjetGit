@@ -4,6 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
-    printf();
+    printf("it's too late");
         return 0;
 }
